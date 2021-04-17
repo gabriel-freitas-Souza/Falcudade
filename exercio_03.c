@@ -8,17 +8,6 @@
  * E EXECUTE A OPERACAO.
  * === === === === === === === === === === === === ===
  *
- * === === === === GRUPO === === === === ===
- * INTEGRANTES DO GRUPO :
- *  --> GABRIEL FREITAS SOUZA
- *  --> GUILHERME CÂNDIDO ROFFES
- *  --> MACLEANS DA SILVA RIBEIRO
- *
- * OBS.: TODOS CURSANDO FACULDADE DE
- * ENGENHARIA DA COMPUTAÇÃO.
- *
- * === === === === === === === === === === ===
- *
  * === === ===  LOGICA DO PROGRAMA === === === ===
  *  O PROGRAMA PERGUNTA QUAL OPERACAO O USUÁRIO QUER
  * REALIZAR, LOGO DEPOIS PEDIR DOIS NUMEROS AO
