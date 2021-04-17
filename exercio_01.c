@@ -8,17 +8,6 @@
  *
  * === === === === === === === === === ===
  *
- * === === === === GRUPO === === === === ===
- * INTEGRANTES DO GRUPO :
- *  --> GABRIEL FREITAS SOUZA
- *  --> GUILHERME CÂNDIDO ROFFES
- *  --> MACLEANS DA SILVA RIBEIRO
- *
- * OBS.: TODOS CURSANDO FACULDADE DE
- * ENGENHARIA DA COMPUTAÇÃO.
- *
- * === === === === === === === === === === ===
- *
  * === === ===  LOGICA DO PROGRAMA === === ===
  * O PROGRAMA PEDIR UM NUMERO AO USUÁRIO,E COM
  * ISSO DETERMINA SE O NUMERO E PAR OU IMPAR E
